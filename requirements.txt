@@ -1,0 +1,15 @@
+# Core Dependencies
+taichi>=1.7.0
+pygame>=2.5.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Future Phase 3+ Dependencies (commented out for Phase 1)
+# moderngl>=5.8.0
+# moderngl-window>=2.4.0
+# PyQt6>=6.5.0
+# opencv-python>=4.8.0
+
+# Utilities
+python-dotenv>=1.0.0
+colorama>=0.4.6
